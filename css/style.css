@@ -1,0 +1,102 @@
+/*
+ * Site : http:www.smarttutorials.net
+ * Author :muni
+ * 
+ */
+body
+{
+	
+	color: #000305;
+	font-size: 200%;
+	font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.429;
+	margin: 0;
+	padding: 0;
+	text-align: left; 
+	
+}
+header{
+	background: #585858;
+	height: 70px;
+	color:#fff;
+	font-size: 60%;
+}
+.container
+{
+
+
+}
+
+a{text-decoration: none;color: #fff;}
+.mainHeader nav li {padding-top:20px;}
+.mainHeader nav li p {padding-left: 500px;}
+.mainHeader
+   {
+   	width: 100%;
+   }
+.mainHeader nav {
+	background: #666;
+	font-size: 1.143em;
+	height: 70px;
+	line-height: 30px;
+	margin: 0 auto 30px auto;
+	text-align: center;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+	
+.mainHeader nav ul {
+	list-style: none; 
+	margin: 0 auto;
+}
+
+.mainHeader nav ul li {
+	float: left; 
+	display: inline; 
+}
+	
+.mainHeader nav a:link, .mainHeader nav a:visited {
+	color: #fff;
+	display: inline-block;
+	height: 30px;
+	padding: 5px 23px;
+	text-decoration: none;
+}
+.mainHeader nav a:hover, .mainHeader nav a:active,
+.mainHeader nav .active a:link, .mainHeader nav .active a:visited {
+	background: #CF5C3F;
+	color: #fff;
+	text-shadow: none !important;
+}
+	
+.mainHeader nav li a {
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+
+
+footer{
+	background: #585858;
+	height: 100px;
+	color:#fff;
+}
+footer p{padding-top:50px;}
+.image{
+	padding-top:10%;
+	height: 453px;
+}
+.intro{
+	margin:150px 0px 150px 70px;
+}
+.question{height: 403px;}
+.result-logo{margin-left: 42%;margin-top:1.6%;}
+.result-logo1{margin-left: 50%;}
+.result-container{margin-left: 40%;margin-top:1%; color:#684B68;}
+.logout{padding-top:100px;}
+.next{margin-left:200px;}
+.answer{color:green;font-weight: 300;font-size: medium; }
+.result{height: 472px;}
+#timer{ float:right;padding: 5px 20px 0 0;}
